@@ -23,7 +23,7 @@ Full datasets are stored as split RAR files in this repository:
 | Dataset | Files | Parts | Size |
 |---------|-------|-------|------|
 | Main Fruit & Vegetable Leaf Dataset (12 classes) | `Dataset of Main Fruit and Vegetable Leaf.part001.rar` – `.part088.rar` | 88 parts | — |
-| Corn Leaf Dataset | `Dataset of Corn.part01.rar` – `.part25.rar` | 25 parts | ~130 GB |
+| Corn Leaf Dataset | `Dataset of Corn.part01.rar` – `.part25.rar` | 25 parts | — |
 | Potato Leaf Dataset | `Dataset of Potato.part01.rar` – `.part45.rar` | 45 parts | — |
 
 ### Extraction Guide
