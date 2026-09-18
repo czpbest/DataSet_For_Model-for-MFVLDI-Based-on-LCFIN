@@ -1,6 +1,6 @@
 # Paper “Cross-Crop Generalization in Multi-Species Leaf Disease Recognition”
 
-> Official implementation of the manuscript **"Cross-Crop Generalization in Multi-Species Leaf Disease Recognition"** (Manuscript ID: 1920089)
+> Official implementation of the manuscript **"Cross-Crop Generalization in Multi-Species Leaf Disease Recognition"** (Manuscript ID: 1970636)
 
 ##  Project Overview
 
