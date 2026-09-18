@@ -217,7 +217,7 @@ Output Probability
 
 | Item | Detail |
 |------|--------|
-| **Title** | A Model for Main Fruit and Vegetable Leaf Disease Identification Based on Lightweight Composite Feature Interaction Network |
+| **Title** | Cross-Crop Generalization in Multi-Species Leaf Disease Recognition |
 | **Manuscript ID** | 1970636 |
 | **Journal** | Frontiers in Plant Science |
 
