@@ -218,7 +218,7 @@ Output Probability
 | Item | Detail |
 |------|--------|
 | **Title** | A Model for Main Fruit and Vegetable Leaf Disease Identification Based on Lightweight Composite Feature Interaction Network |
-| **Manuscript ID** | 1920089 |
+| **Manuscript ID** | 1970636 |
 | **Journal** | Frontiers in Plant Science |
 
 ---
